@@ -1,7 +1,7 @@
 {
-  "name": "bingy-api",
+  "name": "flickstr-api",
   "version": "0.1.0",
-  "description": "REST api for bingy",
+  "description": "REST api for flickstr",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
